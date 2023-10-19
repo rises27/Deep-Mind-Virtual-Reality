@@ -9,5 +9,5 @@ Diharapkan perangkat ini dapat bekerja menggunakan gelombang elektromagnetik dan
 
 # Referensi
 Dari beberapa referensi yang ada saya terinspirasi dari VR yang ada saat ini sebagai AR dan konsol bermain game 
-[Ilustrasi dan inspirasi] (https://github.com/microsoft/MixedReality-GraphicsTools-Unreal)
-[Informasi Tambahan] (https://github.com/vrfuture/Infinity)
+[Ilustrasi dan inspirasi](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal)
+[Informasi Tambahan](https://github.com/vrfuture/Infinity)
