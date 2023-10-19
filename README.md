@@ -8,6 +8,6 @@ Maka dari itu terciptalah ide deep mind virtual reality dibenak saya yang dihara
 Diharapkan perangkat ini dapat bekerja menggunakan gelombang elektromagnetik dan lain hal yang belum saya pelajari sehingga yang saya bayangkan bahwa teknologi ini dapat memblokir reseptor sinyal otak ke organ tubuh dan menginputnya ke dalam perangkat yang digunakan pada kepala sehingga ketika otak memberikan sinyal kepada reseptor untuk menggerakan tangan namun reseptor tersebut diblokir oleh perangkat VR mengguakan medan elektromagnetik dan mengalihkannya ke dalam dunia vitrual begitupun reseptor pennglihatan. Maka dari itu beberapa reseptor otak yang masih berfungsi menskipun orang tersebut mengalami disabilitas dapat menggunakan reseptor oragn tersebut sebagai acuan untuk proyeksi digital pada VR.
 
 # Referensi
-Dari beberapa referensi yang ada saya terinspirasi dari VR yang ada saat ini sebagai AR dan konsol bermain game
-https://github.com/microsoft/MixedReality-GraphicsTools-Unreal 
-https://github.com/vrfuture/Infinity 
+Dari beberapa referensi yang ada saya terinspirasi dari VR yang ada saat ini sebagai AR dan konsol bermain game 
+[Ilustrasi dan inspirasi] (https://github.com/microsoft/MixedReality-GraphicsTools-Unreal)
+[Informasi Tambahan] (https://github.com/vrfuture/Infinity)
